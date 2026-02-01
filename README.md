@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Credit card fraud poses a significant threat to financial institutions and consumers worldwide, leading to substantial financial losses annually. As digital transactions become increasingly prevalent, the need for robust fraud detection systems is more critical than ever. **FraudShield** is a machine learning project aimed at detecting fraudulent credit card transactions with high accuracy, thereby enhancing security and trust in financial systems.
+Credit card fraud poses a significant threat to financial institutions and consumers worldwide, leading to substantial financial losses annually. As digital transactions become increasingly prevalent, the need for robust fraud detection systems is more critical than ever. This is a machine learning project aimed at detecting fraudulent credit card transactions with high accuracy, thereby enhancing security and trust in financial systems.
 
 ## Project Goals
 
